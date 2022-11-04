@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body {
+  height: 100%;
+}
+body { margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+  background-image: url("assets/main-bg.jpg");
+  background-size: cover;
+  background-position-y: -5rem;
+  background-attachment: fixed;
+}
