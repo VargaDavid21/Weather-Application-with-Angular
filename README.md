@@ -6,3 +6,6 @@ In order to build & run:
 >npm install
 
 >npm start 
+
+Screenshot:
+![image](https://user-images.githubusercontent.com/101416186/199999209-fb22a557-7e53-4bae-9dd5-af9db9323a85.png)
